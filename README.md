@@ -1,27 +1,46 @@
-<h1 alight="center"> Hozania Barnabé </h1>
-<div>
-<a href="https://www.instagram.com/hozzyssb/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" width="80" height="20"></a>
-<a href="https://www.linkedin.com/in/hozaniabarnabe/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="100" height="20"></a>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
-Olá, me chamo Hozania Barnabé! (Algumas pessoas me chamam de Hozzy)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;👩‍💻This+is+Hozania+Barnabé....;Nice+to+meet+you!&center=true&size=25">
+  </a>
+</h1>
 
-### Bem vind@ ao meu perfil GitHub :octocat:
+<h5 align="center">
+  <code>
+    <a href="https://www.instagram.com/hozzyssb/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" width="80" height="20"></a>
+<a href="https://www.linkedin.com/in/hozaniabarnabe/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="100" height="20"></a></code>
+</h5>
 
- 💻 Graduanda em Engenharia da Computação.
+<hr>
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h5 align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" alt="fastapi" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+</p>
+<hr>
 
-### Estou aprendendo:
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-            
- LuizaCode 5ª Edição ~ Feliz demais!💜
+<h2> 📈 &nbsp;My GitHub History!</h2>
+<h1 align="center">
+<a href="https://github.com/HozaniaB">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HozaniaB&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HozaniaB&theme=noctis_minimus&layout=compact" />
+</a>
+</h1>
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 
-## Um pouco mais sobre mim
-- 👦Sou mãe de menino (6 anos)
-- 🌴Nordestina (São Luís - MA)
 
 
-## Inspirações:
-![Ada Lovelace](68747470733a2f2f692e6962622e636f2f6838597a5147532f436170612d466f726d756c6172696f2d4c75697a612d436f64652d356564692d6f2d30312e706e67.png)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HozaniaB&theme=darcula&show_icons=true)
