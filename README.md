@@ -9,9 +9,7 @@
 </h1>
 
 <h5 align="center">
-  <code>
-    <a href="https://www.instagram.com/hozzyssb/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" width="80" height="20"></a>
-<a href="https://www.linkedin.com/in/hozaniabarnabe/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="100" height="20"></a></code>
+<code><a href="https://www.instagram.com/hozzyssb/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" width="80" height="20"></a> <a href="https://www.linkedin.com/in/hozaniabarnabe/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="100" height="20"></a></code>
 </h5>
 
 <hr>
